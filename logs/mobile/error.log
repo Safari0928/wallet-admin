@@ -1,0 +1,4 @@
+09:45:50.824 [http-nio-8086-exec-4] ERROR com.mdd.common.exception.GlobalException - 系统异常 java.math.BigInteger cannot be cast to java.math.BigDecimal
+15:48:04.060 [http-nio-8086-exec-1] ERROR com.mdd.common.exception.GlobalException - 系统异常 null
+15:48:58.088 [http-nio-8086-exec-3] ERROR com.mdd.common.exception.GlobalException - 系统异常 null
+15:54:34.091 [http-nio-8086-exec-1] ERROR com.mdd.common.exception.GlobalException - 系统异常 null

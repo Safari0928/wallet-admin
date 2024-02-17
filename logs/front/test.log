@@ -1,0 +1,13 @@
+16:19:43.330 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 6.2.5.Final
+16:19:43.400 [main] INFO  com.mdd.front.LikeFrontApplication - Starting LikeFrontApplication using Java 1.8.0_361 on DESKTOP-57FHAH8 with PID 7948 (D:\testProject\likeadmin-new\server\like-front\target\classes started by Administrator in D:\testProject\likeadmin-new)
+16:19:43.403 [main] INFO  com.mdd.front.LikeFrontApplication - The following 1 profile is active: "dev"
+16:19:45.484 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8084"]
+16:19:45.485 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:19:45.485 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.68]
+16:19:45.751 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:19:47.099 [main] INFO  com.zaxxer.hikari.HikariDataSource - DateSourceHikariCP - Starting...
+16:19:47.290 [main] INFO  com.zaxxer.hikari.HikariDataSource - DateSourceHikariCP - Start completed.
+16:19:50.755 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8084"]
+16:19:51.638 [main] INFO  com.mdd.front.LikeFrontApplication - Started LikeFrontApplication in 8.83 seconds (JVM running for 10.702)
+16:21:32.470 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - DateSourceHikariCP - Shutdown initiated...
+16:21:32.478 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - DateSourceHikariCP - Shutdown completed.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/server/like-admin/like-admin.iml" filepath="$PROJECT_DIR$/server/like-admin/like-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/like-common/like-common.iml" filepath="$PROJECT_DIR$/server/like-common/like-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/like-front/like-front.iml" filepath="$PROJECT_DIR$/server/like-front/like-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/like-generator/like-generator.iml" filepath="$PROJECT_DIR$/server/like-generator/like-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/like-mobile/like-mobile.iml" filepath="$PROJECT_DIR$/server/like-mobile/like-mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/like-payAdmin/like-payAdmin.iml" filepath="$PROJECT_DIR$/server/like-payAdmin/like-payAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/likeadmin-java.iml" filepath="$PROJECT_DIR$/server/likeadmin-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/likeadmin-new.iml" filepath="$PROJECT_DIR$/.idea/likeadmin-new.iml" />
+    </modules>
+  </component>
+</project>

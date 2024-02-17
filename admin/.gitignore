@@ -1,0 +1,27 @@
+# Öncelikle geliştirme ortamı dosyalarını ve bağımlılıkları hariç tut
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Yerel yapılandırma dosyalarını hariç tut (örneğin, dotenv ile .env)
+.env
+
+# İstemci tarafı bağımlılıkları hariç tut (örneğin, React için build klasörü)
+build/
+dist/
+
+# IDE/Editors dosyalarını hariç tut (örneğin, Visual Studio Code için .vscode)
+.vscode/
+
+# macOS'ta oluşturulan gizli sistem dosyalarını hariç tut
+.DS_Store
+
+# Herhangi bir geçici veya üretilen dosyaları hariç tut
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Kendi özel dosyalarınızı veya projeye özgü dosyaları eklemek isterseniz, aşağıya ekleyin
+# Örneğin:
+# customfile.txt

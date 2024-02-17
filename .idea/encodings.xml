@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/server/like-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-front/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-front/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-mobile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-mobile/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-payAdmin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-payAdmin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-transfer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/like-transfer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
